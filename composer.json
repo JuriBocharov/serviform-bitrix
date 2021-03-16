@@ -1,5 +1,5 @@
 {
-    "name": "marvin255/serviform-bitrix",
+    "name": "juribocharov/serviform-bitrix",
     "description": "Serviform's fields set for bitrix",
     "type": "library",
     "keywords": ["php", "forms"],
@@ -17,7 +17,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/marvin255/serviform-bitrix"
+            "url": "https://github.com/juribocharov/serviform-bitrix"
         }
     ]
 }
